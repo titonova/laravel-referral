@@ -1,5 +1,5 @@
 {
-    "name": "titonova/laravel-referral",
+    "name": "tfamdirksen/laravel-referral",
     "description": "A package for Laravel to register referrals with ease.",
     "keywords": [
         "famdirksen",
@@ -27,7 +27,7 @@
         "illuminate/database": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
         "illuminate/http": "^5.8|^6.0|^7.0|^8.0|^9.0|^10.0",
 
-        "famdirksen/laravel-referral": "dev"
+        "famdirksen/laravel-referral": "dev-bugfix"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.17",
