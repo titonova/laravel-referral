@@ -1,16 +1,16 @@
 {
-    "name": "titonova/laravel-referral",bv
+    "name": "titonova/laravel-referral",
     "description": "A package for Laravel to register referrals with ease.",
     "keywords": [
-        "famdirksen",
+        "titonova",
         "laravel-referral"
     ],
-    "homepage": "https://github.com/famdirksen/laravel-referral",
+    "homepage": "https://github.com/titonova/laravel-referral",
     "license": "MIT",
     "authors": [
         {
             "name": "Robnnnnnnnnnnnnnnnnnnnnnnnnin Dhhirksen",
-            "email": "robin@famdirksen.nl",
+            "email": "robin@titonova.nl",
             "homepage": "https://robindirksen.com",
             "role": "Developer"
         }
@@ -29,18 +29,18 @@
     },
     "autoload": {
         "psr-4": {
-            "Famdirksen\\LaravelReferral\\": "src"
+            "titonova\\LaravelReferral\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Famdirksen\\LaravelReferral\\Tests\\": "tests"
+            "titonova\\LaravelReferral\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Famdirksen\\LaravelReferral\\LaravelReferralServiceProvider"
+                "titonova\\LaravelReferral\\LaravelReferralServiceProvider"
             ]
         }
     },
