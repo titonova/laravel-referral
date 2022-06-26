@@ -13,10 +13,7 @@ With this package you can easily register referrals for your users/models.
 
 You can install the package via composer:
 
-```bash
-composer require famdirksen/laravel-referral
-```
-
+gfdfasdfsfds
 ## Usage
 
 This example shows an users (`App\Models\User`) who can have multiple `referralAccounts`. Based on orders (`App\Models\Order`) made in the system it will register the referral for the referral account.
